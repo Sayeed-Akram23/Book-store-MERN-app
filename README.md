@@ -9,9 +9,9 @@ To run this project locally, you'll need to set up both the frontend and backend
 
 1. Navigate to the `frontend` directory:
 
-   ```bash
-   cd frontend
-   ```
+```bash
+cd frontend
+```
 Install the required dependencies:
 
 ```bash
@@ -24,7 +24,7 @@ npm run dev
 ```
 
 ### Backend
-Navigate to the backend directory:
+Navigate to the `backend` directory:
 
 ```bash
 cd backend
