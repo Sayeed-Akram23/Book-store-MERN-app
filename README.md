@@ -1,4 +1,4 @@
-# My MERN Book Store
+# MERN Book Store
 
 This full-stack web application is designed to help book enthusiasts discover, explore, and manage their favorite books. Developed using the MERN stack (MongoDB, Express, React, Node.js), this platform offers a user-friendly interface for browsing and categorizing books.
 ## Getting Started
